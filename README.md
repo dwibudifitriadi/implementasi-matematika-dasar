@@ -1,4 +1,4 @@
-![Screenshot 2025-02-11 202353](https://github.com/user-attachments/assets/433eccf4-0d94-4905-9479-767c0b3c5654)![image](https://github.com/user-attachments/assets/e56dc1e6-2603-4f0f-a304-b997bbf704f5)# implementasi-matematika-dasar
+# Implementasi Matematika Dasar
 Fokus kita ada pada bagaimana konsep matematika diterapkan dalam pemrograman. Jadi, kita tidak akan membahas hal-hal seperti cara menginstal kode editor, menulis kode dasar dan sebagainya namun beberapa konsep dasar pemrograman akan kita bahas.
 
 Nah karena itu sebelum memulai, saya harap kamu sudah paham dasar-dasar pemrograman gak perlu jago banget sih, yang penting kamu bisa memahami kode-kode yang akan kita bahas.
